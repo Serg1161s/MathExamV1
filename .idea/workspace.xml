@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="567b1683-7a9a-43ea-89c3-5e6d8fd5a3d4" name="Changes" comment="">
+    <list default="true" id="567b1683-7a9a-43ea-89c3-5e6d8fd5a3d4" name="Changes" comment="v1.1">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CheckExampleFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CheckExampleFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FirsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NewExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NewExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Login.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MathExamMultiply.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,17 +33,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/UX390/JavaProjects/my-project/Login"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainApp" />
-      <module name="Login" />
+      <module name="MathExamMultiply" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -66,6 +64,14 @@
       <option name="presentableId" value="Default" />
       <updated>1674055412435</updated>
     </task>
+    <task id="LOCAL-00001" summary="v1.1">
+      <created>1674473404461</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674473404461</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,6 +84,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
