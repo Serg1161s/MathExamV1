@@ -5,6 +5,7 @@ public class MainApp {
        FirsPage frame = new FirsPage();
 
            frame.window();
+           //Just comment
 
 
     }
