@@ -1,2 +1,10 @@
-package PACKAGE_NAME;public class MyExcaption {
+public class MyException extends RuntimeException
+{
+    public MyException() {
+        super();
+    }
+
+    public MyException(String s) {
+        super(s);
+    }
 }

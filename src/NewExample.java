@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class NewExample {
+public class NewExample {
+    public int newExam (){
+
+        return ((int) (Math.random()*8)) + 2;
+    }
 }

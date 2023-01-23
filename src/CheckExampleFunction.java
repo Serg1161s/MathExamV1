@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class CheckExamleFunction {
+public class CheckExampleFunction {
+    public boolean checkExampleFunction (int a, int b, int res){
+       return (a*b == res);
+    }
 }
